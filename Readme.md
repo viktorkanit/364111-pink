@@ -1,7 +1,7 @@
 # Личный проект «Пинк» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Kirill Voevodin](https://up.htmlacademy.ru/adaptive/14/user/364111).
-* Наставник: `Сам себе наставник`.
+* Наставник: `Сам себе насdsaтавник`.
 
 ---
 
